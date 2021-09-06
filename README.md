@@ -2,5 +2,5 @@
 
 ### Hello~ 👋
 
-- :orange_book: Focusing on Javascript & PHP
+- :orange_book: Focusing on Javascript & Node & PHP
 - :hammer: Creator of applications and frameworks
